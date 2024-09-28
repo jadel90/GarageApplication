@@ -1,0 +1,114 @@
+<resources>
+    <string name="app_name">A01.1</string>
+
+
+    <!--    car, bike, other names-->
+    <string-array name="car_names">
+        <item>2003 Ford Thunderbird Deluxe Convertible 3.9 V8 Automatic White/Black Top</item>
+        <item>Mercedes Benz GLC 43 AMG 4MATIC 360</item>
+        <item>1966 Ford Mustang GT Convertible with V8</item>
+        <item>1966 Ford Mustang GT Convertible with V8</item>
+        <item>1970 Ford Mustang BOSS 302 Custom Convertible</item>
+        <item>Mercedes-Benz 600 Pullman</item>
+    </string-array>
+
+
+    <string-array name="bike_names">
+        <item>20 Inch Kids Mountain Bike for 7-13 Years Kids Bicycle ,Black JOYSTAR</item>
+        <item>BIKESTAR Fully Aluminum Mountain Bike Bike Shimano 21-Speed 29-Inch MTB</item>
+        <item>NEW GIANT TALON 1 MOUNTAIN BIKE LARGE. COLOUR BLACK</item>
+        <item>Raleigh Trace Electric Hybrid Bike</item>
+        <item>NEW GIANT TALON 2 MOUNTAIN BIKE 29er. LARGE. COLOUR CONCRETE</item>
+        <item>26 MOUNTAINBIKE BIKE MTB HARDTAIL ALUMINIUM TERRA-X.TR MODEL, 21 SHIMANO, NECO NEW</item>
+    </string-array>
+
+
+
+
+    <string-array name="other_names">
+        <item>Space Saver Spare Wheel 17"</item>
+        <item>POWERTRAC 205/55R16 91V BRAND NEW TYRES </item>
+        <item>RED Rimblades Alloy Wheel Edge Rim Protector / Full 4 WHEEL Fitting Kit </item>
+        <item>Tyre Pressure Sensor Valve TPMS Stem Repair Kit</item>
+        <item>bmw 3 series 16 inch alloy wheel E90/91/92 </item>
+        <item>Rimblades Heavy Alloy Wheel Rim Protectors/guards/tape BLACK - SINGLE </item>
+    </string-array>
+
+
+
+
+    <!--car, bike, other prices-->
+    <string-array name="car_prices">
+        <item>11,250.00</item>
+        <item>37,999.00</item>
+        <item>79,500.00</item>
+        <item>49,900.00</item>
+        <item>59,500.00</item>
+        <item>467,400.00</item>
+    </string-array>
+
+
+
+
+    <string-array name="bike_prices">
+        <item>109.99</item>
+        <item>399.99</item>
+        <item>729.00</item>
+        <item>1,395.00</item>
+        <item>599.00</item>
+        <item>309.90</item>
+    </string-array>
+
+
+
+
+    <string-array name="other_prices">
+        <item>184.99</item>
+        <item>61.95</item>
+        <item>16.95</item>
+        <item>12.29</item>
+        <item>43.05</item>
+        <item>12.99</item>
+    </string-array>
+
+
+
+
+    <!--    car, bike, ads-->
+    <string-array name="car_ads">
+        <item>https://www.ebay.ie/itm/276091070945?hash=item40484f69e1:g:AkoAAOSw5axkiKx </item>
+        <item>https://www.ebay.ie/itm/186111231183?hash=item2b551804cf:g:Jo8AAOSwh6Jk0Vld</item>
+        <item>https://www.ebay.ie/itm/235128890825?hash=item36bec625c9:g:v4UAAOSw~8Jkz-Uv</item>
+        <item>https://www.ebay.ie/itm/235097190903?hash=item36bce271f7:g:MJoAAOSw-wtkuWDl </item>
+        <item>https://www.ebay.ie/itm/235136022128?hash=item36bf32f670:g:IQkAAOSwYrpk3dl8 </item>
+        <item>https://www.ebay.ie/itm/266333406366?hash=item3e02b5449e:g:y-UAAOSwLsBkr7zK </item>
+    </string-array>
+
+
+
+
+    <string-array name="bike_ads">
+        <item>https://www.ebay.ie/itm/285522768882?hash=item427a7bb3f2:g:kJQAAOSw515lMTiC&amp;amdata=enc%3AAQAIAAAAwEjBWL9axJnlLJy%2FccAp4ijlf8oHj%2FqGtBINrFGcdo0tjOZ%2FOhzRhO%2BvZ51RnGr7Eds8ToED%2BxRyNzf30bmdQFDTCgSQ9yxpMR6xZ9Rnok%2FbqmD1ZEgSAFSM9xa6sw8WlpYF8nV8FdmzAsk%2FvT9bW%2FK5Mhj1sjfGNLl6M0qA752P1yuLTZi3pYxVHK33SOMiuuSKwJD1f%2B0B1JqbBWv6uePbfJjr1VzAkJPeI73MwScl8LVjwFmjjq3OdzB6kwRRzA%3D%3D%7Ctkp%3ABk9SR4iixYTpYg</item>
+        <item>https://www.ebay.ie/itm/125506361067?hash=item1d38c316eb:g:QQIAAOSw32hjHJXk&amp;amdata=enc%3AAQAIAAAAwN5UOs8KSvx%2FmsrT%2Bkqsd5eMjwvpMEpdKjQ6k9y5AFyzVQ8yupZmDlTt3jKaEXHbXP%2BK%2BtzertMSeBKP7gJ3%2B9S7OvH6lsxL9WgL9s2bGy1EFJUp0Tek3gD8p0s4XlYDuiwnju%2F5TYPOImQWWpHrlVwTojQaSnWnbXWZ%2F33EgCJFVZqmqCEF8cmu5LmmBYKqrsYWeFgO9yKSqeyEFnH8GZeO7ClunQ05ZSBR2FwFky5m3rQh0670suXJpJ8nlgXpYA%3D%3D%7Ctkp%3ABk9SR4iixYTpYg</item>
+        <item>https://www.ebay.ie/itm/115947209480?hash=item1afefe0308:g:gHwAAOSwjQllMS1~&amp;amdata=enc%3AAQAIAAAA4Htm%2BrT2WBpW0Ows3DF2%2FBkQ33nydBQuh5ayhLgHT%2BEOAZDq%2BCXIRGTUhpuAp1MYsffOS%2FuzAicUbc9dhX8tq94JpKCy5UHYQtZbH6SglEUlTW8TDozmp7zahyAdotJNZWi2fMyS5Gm8mOVia1tKx24CCe0uyFKP9eYM1icdQg94RQeb5hDKDuo4UI9e8oIOh%2FU1Ez4P7TA7CYce7DA2nSoM8Im95Uk7%2FlW3ENjNKt5RgoF7CxD1VLyiMEKAogC8QLE4ioQBxHC903TcURq5kCar2BRmDpnCLaSdc1kSAoUf%7Ctkp%3ABk9SR4qixYTpYg</item>
+        <item>https://www.ebay.ie/itm/364537079019?hash=item54e01a64eb:g:mzAAAOSw2TVlMSNE&amp;amdata=enc%3AAQAIAAAA4MUJFR4NYrutOwkfxU8YJc7UgR5jrxjgMyu6bTMiFFPbn71i7xsHI8m8SHSB43j6RO2yE5dwQuj5aFPMe%2FGHDUd%2Bp696RTKKrs1Vl5tlVOwxD%2BvW8DvDN6RG5a5VDJcMCzY%2FMAt%2BdKl%2BF1r2PcoOR5wr33SVqOAfZDFfB38EfZPqZfAI34qP%2B4aPG9ebNmxw0VpyoJf0js21YibBvsrJm%2FevIBg0f8Lm73TrD6udazGAfqSzwJcXkQraAW91FtpcAMhhApS4FjORm93ywzHGTdJaMjyFDvKPXxCAdQ7AQoiY%7Ctkp%3ABk9SR4qixYTpYg</item>
+        <item>https://www.ebay.ie/itm/115947143758?hash=item1afefd024e:g:LIwAAOSwneBlMR5F&amp;amdata=enc%3AAQAIAAAA4Pi7HueSoRE%2Fwwh7jS1T6eIhX1WPwR3J9XOkabA71%2B3c6OpNL5yCWyHmIWGHpzTDTkR3G6PYC9kPveOoevnUM1r3TiSvxA0LVOmbCVxjKsrFU%2BeBZt5eAd%2BEUn0N3XonqX%2FF5K1Sd2eODm4NsDDKlG%2FS%2F0rOzsJO6c1R37mOnuWyUgtPR47NgLu40WVBIyoo%2FRxZher3%2FLOnSrEM8xwURc7AVUyJU2dRNHETH8INLlv54aDdle%2Fu0%2BDOqhD9gbH6WszTWvA9qNdJ2FEXzrcrWJxcLOKmWQKHgK4PfTZ4fKpm%7Ctkp%3ABk9SR4qixYTpYg</item>
+        <item>https://www.ebay.ie/itm/285268084997?hash=item426b4d8905:g:qYwAAOSwjjpkS7JR&amp;amdata=enc%3AAQAIAAAA4IPKCDoC%2BXVrlsDOJ9iKwEkmE7dlvJvue9TNbrqUP0sXffrdRWytRwCC0ebqdk1PzKp3Hdo4U%2BLoC0reYJWuUbdtRm21bok92Aaze4%2FQyqGrRmOMPg2JokBK4aHvskAYdUBKohDpHceUcF8UbzYtMd9fCs5TGt5pndSkBeNirgR3ojol74Won%2Fn3QVgCWrWSI1n0J4d9%2BNwyZCbekvoieIgrYRJg%2BFTFD5%2FsbPXpPga3XOkwEo7VXqgvpAJsRV%2Fd%2FngHswGBsbXbuDvEGLqmEZJcsIsiBa5GM38vTad7ytgy%7Ctkp%3ABFBMiqLFhOli</item>
+    </string-array>
+
+
+
+
+    <string-array name="other_ads">
+        <item>https://www.ebay.co.uk/itm/202913024236?hash=item2f3e8f08ec:g:2G0AAOSwL7ZkXSmE&amp;amdata=enc%3AAQAIAAAA0Oa5t59azqYT%2FvG7Nf4ntIjCdj4ziQM1dN9XVYGDxXOrEj%2BEE2DhM5mQ3mjD5tEVPst8Tn0NBCo%2BYkuaOP8x9ZJr%2Fylxee1t6JK4Vq6rdYJX6V8BvFZh%2Bs6l6%2B2O8h5R2iLC2C5WdhE42iWYxuQKhnKf2XiUms%2FnIvi0L2iQrTW3euNlwvD2S%2FYg3Ygs%2BR9bbu5etQmeKyDT4rTs2FPKlDOaMD5JvAljcNFIR%2F9lbSvtSbWPCzKe4F%2FGC5kYN%2FBC1G%2BI6bE96BhbwX99RWghidk%3D%7Ctkp%3ABFBMhJ7p3uti</item>
+        <item>https://www.ebay.co.uk/itm/203494076611?hash=item2f613130c3:g:glwAAOSwrStlMX-F</item>
+        <item>https://www.ebay.co.uk/itm/256261048138?hash=item3baa59474a:g:mMoAAOSwM6ZlMOK6</item>
+        <item>https://www.ebay.co.uk/itm/284140332363?hash=item422815654b:g:GqUAAOSw5VVf9vaI&amp;amdata=enc%3AAQAIAAAA0OyytyVpgQlQnxDg5vgrP8JX19d0x5lr5YWbw76p%2B%2FpwzTN0R%2FzBAIP2%2FjtjotVAysWZEGwj4K3GMZ2jYo2%2BO0fILz3XEXsAXFPheyZ6TZNLHnY0pxYIHNdAkFkmyr1zMn0pDBFIvNvqjow9AhpMsFu9pxvaSRSVFXU3tXfBATd2rKN5EL3ERshTiNAAWXlH88SZZpMUY9pxpxhqGWRwU8Yih29Ku0aw9eIUsvxJTlAPpT42%2BQxknBoHbph9qi5C9P5H2eg2OOBm298jYE8%2BSFs%3D%7Ctkp%3ABFBMjpb53uti</item>
+        <item>https://www.ebay.co.uk/itm/166393056498?hash=item26bdcc8cf2:g:wW4AAOSwgbVlNrXD</item>
+        <item>https://www.ebay.co.uk/itm/354327488109?hash=item527f90666d:g:37YAAOSw04Ni4J8B</item>
+    </string-array>
+
+
+
+
+</resources>
